@@ -1,7 +1,19 @@
 [general]
-name=VertexDragPlugin
-description=A Editor for vertex layers allowing the movement of Vectors By the dragging of a mouse.Selects vectors and redraws geometry simutaniously
-version=1.0
+name=vertexdragplugin
+description=A QGIS plugin for dragging vertices of vector features.
+version=1.0.0
 qgisMinimumVersion=3.0
-author=Tadgh Monks+ Zac Ring 
-email=Tadghmonks11@gmail.com
+author=Tadgh monks and Zac ring 
+email=Tadghmonks11@gmail.com and zacring27@icloud.com
+repository=https://github.com/iduno123/TadghAndZac.git
+tracker=https://github.com/iduno123/vertexdragplugin/issues
+icon=icon.png
+experimental=True 
+
+about=This plugin allows users to drag vertices of vector features on the map canvas.This plug in is a very experimental and our first plug in written for QGIS 
+
+[depend]
+qgis>=3.0
+
+[tags]
+vertex, drag, plugin
