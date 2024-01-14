@@ -1,0 +1,7 @@
+[general]
+name=VertexDragPlugin
+description=A Editor for vertex layers allowing the movement of Vectors By the dragging of a mouse.Selects vectors and redraws geometry simutaniously
+version=1.0
+qgisMinimumVersion=3.0
+author=Tadgh Monks+ Zac Ring 
+email=Tadghmonks11@gmail.com
