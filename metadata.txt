@@ -5,7 +5,7 @@ version=1.0.0
 qgisMinimumVersion=3.0
 author=Tadgh monks and Zac ring 
 email=Tadghmonks11@gmail.com and zacring27@icloud.com
-repository=https://github.com/iduno123/TadghAndZac.git
+repository=https://github.com/iduno123/TadghAndZac
 tracker=https://github.com/iduno123/vertexdragplugin/issues
 icon=icon.png
 experimental=True 
@@ -13,7 +13,7 @@ experimental=True
 about=This plugin allows users to drag vertices of vector features on the map canvas.This plug in is a very experimental and our first plug in written for QGIS 
 
 [depend]
-qgis>=3.0
+qgis>=3.34.1
 
 [tags]
 vertex, drag, plugin
